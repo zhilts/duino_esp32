@@ -1,0 +1,3 @@
+[submodule "ref/duino-coin"]
+	path = ref/duino-coin
+	url = git@github.com:revoxhere/duino-coin.git
